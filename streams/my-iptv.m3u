@@ -1,0 +1,72 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml" tvg-url="https://raw.githubusercontent.com/Jerrie-Aries/EPG/master/epg.xml"
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV1.my" ch-number="101" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV2.my" ch-number="102" tvg-chno="102" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV3.my" ch-number="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
+#https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="DramaSangat.my" ch-number="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+#EXT-X-STREAM-INF:BANDWIDTH=4370178,CODECS="mp4a.40.2,avc1.4d4020",RESOLUTION=1280x720,FRAME-RATE=60,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE 
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV6.my" ch-number="106" tvg-chno="106" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="DidikTVKPM.my" ch-number="107" tvg-chno="107" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",DidikTV KPM
+#EXT-X-STREAM-INF:BANDWIDTH=2358400,AVERAGE-BANDWIDTH=2270400,CODECS="avc1.4d402a,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25 
+https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master_720.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846&hdnts=exp=1742996845~hmac=6f6b25e66c38712b97901e3793afd77e952200e1b701630941f23e813a1838dc
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="8TV.my" ch-number="108" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
+#EXT-X-STREAM-INF:BANDWIDTH=2358400,AVERAGE-BANDWIDTH=2270400,CODECS="avc1.4d402a,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25 
+https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master_720.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5&hdnts=exp=null~hmac=505028eef5a2ae6aaf0d8ba02a87ae0dd10fece160b15d43a1482328baae7286
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV9.my" ch-number="109" tvg-chno="109" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
+#EXT-X-STREAM-INF:BANDWIDTH=2930400,AVERAGE-BANDWIDTH=2820400,CODECS="avc1.4d402a,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25 
+https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master_720.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5&hdnts=exp=null~hmac=505028eef5a2ae6aaf0d8ba02a87ae0dd10fece160b15d43a1482328baae7286
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="OKEY.my" ch-number="110" tvg-chno="110" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="Alhijrah.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",Al Hijrah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="TVS.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png", TVS
+https://stream.smg.my/live/tvs.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="TVIKIM.my" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/jnkfvh.png",TVIKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="SukanRTM.my" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="BeritaRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="Bernama.my" tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png",Bernama
+https://ythlsgo.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="AstroAwani.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png",Astro Awani 
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="DewanNegara.my" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/PDN_bckg.png",RTM Parlimen (Dewan Negara)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="DewanRakyat.my" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/PDR_bckg.png",RTM Parlimen (Dewan Rakyat)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+
+#EXTINF:-1 group-title="News" tvg-id="AlJazeeraEnglish" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="TRTWorld" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png",TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="RT.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT English
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
